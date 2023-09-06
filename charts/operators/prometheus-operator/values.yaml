@@ -10,7 +10,7 @@ configReloaderImage:
 
 thanosImage:
   repository: tccr.io/truecharts/thanos
-  tag: "v0.31.0@sha256:d1f694ca4040aae878005e15baafdf16ca9e52ce836e5eb64158918f35acd34b"
+  tag: "v0.32.2@sha256:2c6e5591fe829574fd285a16ab303a35e6228cae2fad68f19fe95fb23402b2b1"
   pullPolicy:
 
 patchImage:
