@@ -1,7 +1,7 @@
 image:
   repository: tccr.io/truecharts/wizarr
   pullPolicy: IfNotPresent
-  tag: v2.2.0@sha256:bce9ad58272458e3453c4752b5014f49e7acf83695488446f2589a7a00e11a59
+  tag: v3.0.1@sha256:ca6e0afe43870499b1768b3f37b243352642ac71a4a920d537867814b10f6794
 
 service:
   main:
