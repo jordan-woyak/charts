@@ -8,7 +8,7 @@ thanosImage:
 
 alertmanagerImage:
   repository: tccr.io/truecharts/alertmanager
-  tag: 0.25.0@sha256:6b534671b83aa7fbd91d1b10bf0f1b29b948e4b300f8359a86043d0deba07207
+  tag: v0.26.0@sha256:8681ad7c518af93a57fdf4a59fabf062d548a59a7c456eac855f6405150bc68f
 manifestManager:
   enabled: true
 global:
