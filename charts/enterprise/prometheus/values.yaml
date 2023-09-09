@@ -1,6 +1,6 @@
 image:
   repository: tccr.io/truecharts/prometheus
-  tag: v2.46.0@sha256:0b0dc821c06967e8562bf32ebd9055eef7f1ddd8851187acbf8871d8bd9c72a3
+  tag: v2.47.0@sha256:aa8002c4e91a7d01b342e820246e2917f59e323dd9055eeceb1b5555f491bc0a
 
 thanosImage:
   repository: tccr.io/truecharts/thanos
